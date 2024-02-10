@@ -14,5 +14,5 @@ export default defineComponent({
 
 <template>
   <h3>{{ counter }}</h3>
-  <button @click="addCounter">ADD</button>
+  <button @click="addCounter">ADD 1</button>
 </template>
